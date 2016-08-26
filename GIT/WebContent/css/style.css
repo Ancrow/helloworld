@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+div#principal{
+	position:relative;
+	width:800px;
+	height:800px;
+	margin:0 auto;
+	background-color:#EEC900;
+}
+
+h1{
+	text-align:center;
+}
